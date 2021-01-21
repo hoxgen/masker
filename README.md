@@ -1,7 +1,7 @@
 # masker
 OpenFrameworks script. Combines multiple masked images (layers) in a single output picture of the same size.
 
-## Usage:
+## Usage:
 
 /data/mask/
 - folder with mask images (grayscale)
@@ -15,3 +15,7 @@ OpenFrameworks script. Combines multiple masked images (layers) in a single outp
 Requires ofxLayerMask
 
 Masks could be produced using OpenCV.
+
+## Example:
+
+<img src="https://github.com/hoxgen/masker/blob/main/export%20example/chain4434.png">
